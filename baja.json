@@ -59,6 +59,22 @@
       },
       {
         "id": "8",
+        "tittle": "MOD GEROBAK SAMPAH",
+        "date": "2021-02-04",
+        "link_file": "https://archive.org/download/grobak-sampah/GROBAK%20SAMPAH.zip",
+        "format_file":"zip",
+        "images": "https://i.ytimg.com/vi/-8oMl3LzWMo/maxresdefault.jpg"
+      },
+      {
+        "id": "9",
+        "tittle": "GEROBAK ODADING MANG OLEH",
+        "date": "2021-02-04",
+        "link_file": "https://archive.org/download/mod-gerobak-odading-v-1-bussid/MOD%20GEROBAK%20ODADING%20V1%20BUSSID%20.zip",
+        "format_file":"zip",
+        "images": "https://i.ytimg.com/vi/bAwWj-LRGZY/hqdefault.jpg"
+      },
+      {
+        "id": "10",
         "tittle": "MOD BAJAJ TAXI",
         "date": "2021-02-04",
         "link_file": "https://archive.org/download/bajaj_202101/bajaj.zip",
@@ -66,7 +82,7 @@
         "images": "https://i.ytimg.com/vi/tbvrrLV-Vmw/maxresdefault.jpg"
       },
       {
-        "id": "9",
+        "id": "11",
         "tittle": "MOD BAJAJ CENDOL DAWET",
         "date": "2021-02-04",
         "link_file": "https://archive.org/download/bajaj-cendol-dawet-bussidgame.com/BAJAJ%20CENDOL%20DAWET%20%5Bbussidgame.com%5D.zip",
